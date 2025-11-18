@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm <Your Name> 👋
 
-<!--
-**Azizul-haque1/Azizul-haque1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a web developer learning modern full-stack development.  
+I enjoy building responsive UIs, dynamic web apps, and working with modern JavaScript tools.
 
-Here are some ideas to get you started:
+## 🚀 Technologies I'm Learning
+- **Frontend:** HTML, CSS, Tailwind CSS, JavaScript, React.js  
+- **Backend:** Node.js, Express.js  
+- **Database & Cloud:** MongoDB, Firebase  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Current Goals
+- Building full-stack MERN projects  
+- Improving React components & UI/UX  
+- Learning authentication, APIs, and deployment  
+
+## 🔧 Tools I Use
+- VS Code  
+- Git & GitHub  
+- Postman  
+- NPM / Yarn  
+
+## 📌 Projects (More Coming Soon!)
+- **Project 1:** Your project name — short description  
+- **Project 2:** Your project name — short description  
+
+## 📫 Contact
+- Email: yourname@example.com  
+- GitHub: https://github.com/yourusername  
+- LinkedIn (optional): https://linkedin.com/in/yourusername
+
+---
+
+Thanks for visiting my profile! 👋
