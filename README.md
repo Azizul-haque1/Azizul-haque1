@@ -51,11 +51,6 @@ I enjoy exploring cutting-edge technologies, writing clean code, and creating me
 
 ---
 
-## 📊 GitHub Stats
-
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanyFaysal&theme=transparent&hide_border=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanyFaysal&theme=transparent&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanyFaysal&theme=transparent&hide_border=true) |
 
 ---
 
