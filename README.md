@@ -95,7 +95,7 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 
 ## 🔗 Connect With Me
 - **Email:** 
-- **LinkedIn:** 
+- **LinkedIn:** https://www.linkedin.com/in/azizul-haque-786876396/
 - **Facebook:**
 
 
