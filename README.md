@@ -24,7 +24,7 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 
 ---
 
-## 🛠️ My Skills
+## 💻 My Skills
 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
