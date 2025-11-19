@@ -12,11 +12,10 @@ I enjoy exploring cutting-edge technologies, writing clean code, and creating me
 
 ---
 
-## 🔥 What I'm Currently Working On
-- ⚡ Exploring **Next.js** in depth  
-- 🌍 Building a **tourism web application** using MERN Stack  
-- 🔐 Implementing JWT & Firebase authentication  
-- 🚀 Improving backend performance with Node.js + Express  
+🔥 What I'm Currently Working On
+
+Project Name: Community Food Sharing – PlateShare
+A full-stack MERN application focused on reducing food waste by allowing users to donate and request surplus food within the community.
 
 ---
 
