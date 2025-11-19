@@ -58,6 +58,42 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizul-haque1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td><b>📌 Top Languages</b></td>
+    <td><b>📈 GitHub Stats</b></td>
+    <td><b>🔥 GitHub Streak</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizul-haque1&theme=transparent&hide_border=true&layout=compact&langs_count=8" 
+           alt="Top Languages" 
+           height="180px"
+      />
+    </td>
+    <td>
+      <img 
+           src="https://github-readme-stats.vercel.app/api?username=Azizul-haque1&show_icons=true&theme=transparent&hide_border=true&count_private=true&include_all_commits=true" 
+           alt="GitHub Stats" 
+           height="180px"
+      />
+    </td>
+    <td>
+      <img 
+           src="https://github-readme-streak-stats-rosy-psi.vercel.app/?user=Azizul-haque1&theme=transparent&hide_border=true" 
+           alt="GitHub Streak" 
+           height="180px"
+      />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 [![](https://visitcount.itsvg.in/api?id=Azizul-haque1&icon=0&color=0)](https://visitcount.itsvg.in)
