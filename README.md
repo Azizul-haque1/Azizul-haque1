@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://your-banner-image-link-here.com/banner.png" alt="Banner" />
+<img src="https://i.ibb.co.com/WNGhZBPf/unnamed-1.jpg" alt="Banner" />
 
 <!-- ░░░░░░░░░░░░░░░░░ INTRO TITLE + TYPE ANIMATION ░░░░░░░░░░░░░░░░░ -->
 <h1 align="center">✨ Hey, I'm <span style="color:#00E5FF;">Azizul Haque</span></h1>
