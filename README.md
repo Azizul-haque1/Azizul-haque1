@@ -53,9 +53,11 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Azizul-haque1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Azizul-haque1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizul-haque1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+|[](https://github-readme-stats.vercel.app/api?username=Azizul-haque1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|
+|[](https://nirzak-streak-stats.vercel.app/?user=Azizul-haque1&theme=dark&hide_border=false)<br/>
+|[](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizul-haque1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 📊 GitHub Stats
