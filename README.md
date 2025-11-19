@@ -1,9 +1,15 @@
 <!-- Banner Image -->
 <img src="https://your-banner-image-link-here.com/banner.png" alt="Banner" />
 
-# 👋 Hi, I'm **Azizul Haque**  
-### 💻 MERN Stack Developer
+<!-- ░░░░░░░░░░░░░░░░░ INTRO TITLE + TYPE ANIMATION ░░░░░░░░░░░░░░░░░ -->
+<h1 align="center">✨ Hey, I'm <span style="color:#00E5FF;">Azizul Haque</span></h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Tailwind+CSS+%7C+Firebase+%7C+JWT+Auth;Crafting+Modern+Web+Experiences" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
+</p>
 ---
 
 ## 🚀 About Me
