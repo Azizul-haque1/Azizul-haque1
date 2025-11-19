@@ -51,13 +51,6 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
 
 
-
-# 📊 GitHub Stats:
-|📌 Top Languages| 📈 GitHub Stats | 🔥 GitHub Streak |
-|:---:|:---:|:---:|
-|![](https://github-readme-stats.vercel.app/api?username=Azizul-haque1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)|![](https://nirzak-streak-stats.vercel.app/?user=Azizul-haque1&theme=dark&hide_border=false)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azizul-haque1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ## 📊 GitHub Stats
 <div align="center">
 
