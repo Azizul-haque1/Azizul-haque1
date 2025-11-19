@@ -34,8 +34,6 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwindcss)
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-333?style=flat&logo=redux)
 
 ### **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
@@ -49,7 +47,6 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
 ![JWT](https://img.shields.io/badge/-JWT-333?style=flat&logo=jsonwebtokens)
-![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
 
 
