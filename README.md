@@ -15,14 +15,14 @@
 I’m a passionate MERN Stack Developer who loves building modern, scalable, and user-friendly web applications.  
 I enjoy exploring cutting-edge technologies, writing clean code, and creating meaningful digital experiences.
 
----
+
 
 🔥 What I'm Currently Working On
 
 Project Name: Community Food Sharing – PlateShare
 A full-stack MERN application focused on reducing food waste by allowing users to donate and request surplus food within the community.
 
----
+
 
 ## 💻 My Skills
 
@@ -52,7 +52,6 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 ![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
 
----
 
 
 # 📊 GitHub Stats:
@@ -63,18 +62,17 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Azizul-haque1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Azizul-haque1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
 
 ## 🔗 Connect With Me
 - **Email:** 
 - **LinkedIn:** 
 - **Facebook:**
 
----
+
 
 ⭐ **Let’s connect and build something awesome!**
