@@ -94,9 +94,12 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 
 
 ## 🔗 Connect With Me
-- **Email:** 
-- **LinkedIn:** https://www.linkedin.com/in/azizul-haque-786876396/
-- **Facebook:**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/azizul-haque-786876396" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="azizul-haque-786876396" height="30" width="40" /></a>
+<a href="https://fb.com/ah324242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ah324242" height="30" width="40" /></a>
+</p>
 
 
 
