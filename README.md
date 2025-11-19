@@ -59,14 +59,13 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 
 
 ## 📊 GitHub Stats
-
 <div align="center">
 
 <table>
   <tr>
-    <td><b></b></td>
-    <td><b></b></td>
-    <td><b></b></td>
+    <td><b>📌 Top Languages</b></td>
+    <td><b>📈 GitHub Stats</b></td>
+    <td><b>🔥 GitHub Streak</b></td>
   </tr>
   <tr>
     <td>
