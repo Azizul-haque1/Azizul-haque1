@@ -47,6 +47,7 @@ A full-stack MERN application focused on reducing food waste by allowing users t
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
 ![JWT](https://img.shields.io/badge/-JWT-333?style=flat&logo=jsonwebtokens)
+![Postman](https://img.shields.io/badge/-Postman-333?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visual-studio-code)
 
 
